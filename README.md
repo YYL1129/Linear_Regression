@@ -1,2 +1,2 @@
 # Linear_Regression
-# E-commerce Customer database learn from kaggle 
+# E-commerce spending predictions learn from kaggle 
